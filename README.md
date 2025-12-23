@@ -2,10 +2,6 @@
 
 ### An experienced full-stack developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=therealsamyak&label=Profile views&color=0e75b6&style=flat" alt="therealsamyak" /> </p>
-
-<p align="left"> <a href="https://twitter.com/therealsamyak" target="blank"><img src="https://img.shields.io/twitter/follow/therealsamyak?logo=twitter&style=for-the-badge" alt="therealsamyak" /></a> </p>
-
 - 🔭 I'm currently working on **[Azur Lane ECGC](https://github.com/azur-lane-ecgc/ecgc-dev)**
 
 - 🌱 I'm currently learning **Typescript, Python, AI-tooling, NextJS optimizations**

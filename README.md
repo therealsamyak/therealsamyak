@@ -1,20 +1,5 @@
 # Hi 👋, I'm Samyak Kakatur
-
-### An experienced full-stack developer
-
-- 🔭 I'm currently working on **[Azur Lane ECGC](https://github.com/azur-lane-ecgc/ecgc-dev)**
-
-- 🌱 I'm currently learning **Typescript, Python, AI-tooling, NextJS optimizations**
-
-- 👯 I'm looking to collaborate on **anything interesting**
-
-- 🤝 I'm looking for help with **creativity**
-
-- 💬 Ask me about **life**
-
-- 📫 How to reach me **Twitter @skakatur_dev**
-
-- 👨‍💻 All of my projects are available at **[https://skakatur.dev/](https://skakatur.dev/)**
+All of my projects are available at **[https://skakatur.dev/](https://skakatur.dev/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -29,5 +14,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=therealsamyak&show_icons=true&locale=en&layout=compact" alt="therealsamyak" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=therealsamyak&show_icons=true&locale=en" alt="therealsamyak" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=therealsamyak&" alt="therealsamyak" /></p>
